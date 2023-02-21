@@ -5,7 +5,9 @@
 */
 
 public struct LocalizedStrings {
-    public init() {
-        
-    }
+    public private(set) var text = ""
+    
+    public var test = "Test"
+
+    public init() {}
 }
