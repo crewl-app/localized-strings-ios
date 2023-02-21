@@ -1,0 +1,62 @@
+/*
+  Localizable.strings
+  
+
+  Created by Kaan on 21.02.2023.
+  
+*/
+
+"title" = "Başlık!";
+"EXPLORE_EVENTS_AROUND" = "Etrafındaki etkinlikleri keşfet";
+"MEET_NEW_PEOPLE_AND_COMPETE" = "Yeni insanlarla tanış ve rekabet et";
+"GET_SPECIAL_DISCOUNTS_AND_TRY_DIFFERENT_FLAVORS" = "Özel indirimler kazan ve farklı tatları dene";
+"EXPERIENCE_AN_UNFORGETTABLE_NIGHT" = "Unutulmayacak bir gece deneyimle";
+"CREATE_EVENTS_FOR_PEOPLE_OR_JOIN_ORGANIZED_EVENTS" = "İnsanlar için etkinlik oluştur veya düzenlenen etkinliklere katıl.";
+"FIND_NEW_PEOPLE_IN_YOUR_CITY_CREATE_YOUR_TEAM_AT_EVENTS" = "Şehrindeki yeni insanları bul, etkinliklerde ekibini oluştur ve ödül kazan.";
+"TRY_SPECIAL_DRINKS_OF_THE_BARS_YOU_VISIT" = "Gittiğin barların özel içeceklerini dene ve Crewl üyeliğine özel indirimlerin tadını çıkar.";
+"JOIN_NOW_AND_BE_PART_OF_THE_STORY" = "Şimdi katıl ve hikayenin bir parçası ol. Seni aramızda görmek için sabırsızlanıyoruz.";
+"CONTINUE" = "Devam Et";
+"LOGIN" = "Giriş Yap";
+"REGISTER" = "Kayıt Ol";
+"WHAT_IS_YOUR_PHONE_NUMBER" = "Telefon numaran nedir?";
+"FOR_EVERYONE_TO_BE_SAFE_IN_CREWL_I_NEED_TO_CONFIRM" = "Crewl’da herkesin güvende olması için senin gerçek bir insan olduğunu doğrulamam gerekiyor.";
+"MAKE_SURE_YOU_ENTERED_PHONE_NUMBER_CORRECTLY" = "Numaranı doğru girdiğinden emin ol. Sana bir SMS kodu yollayacağım.";
+"TERMS_OF_SERVICE" = "Kullanım Koşulları";
+"PRIVACY_POLICY" = "Gizlilik Politikası";
+"AND" = "ve";
+ "I_READ_AND_AGREE" = "i‘ni okudum ve kabul ediyorum.";
+"COUNTRY_CODE" = "Ülke Kodu";
+"SEARCH" = "Ara";
+"THANKS_NOW_I_NEED_TO_VERIFY_YOUR_NUMBER" = "Teşekkürler, şimdi numaranı doğrulamam gerekiyor.";
+"I_SENT_A_CODE_TO_NUMBER" = "numarasına bir kod yolladım.";
+"SEND_CODE" = "Onay Kodu Gönder";
+"RESEND_CODE" = "Kodu Yeniden Gönder";
+"CONFIRM_CODE" = "Kodu Onayla";
+"CODE_IS_INCORRECT_TRY_AGAIN" = "Kod hatalı. Tekrar dene.";
+"SUCCESSFULLY_VERIFIED_I_GUESS_YOU_ARE_REALLY_A_HUMAN" = "Başarıyla doğruladım. Sanırım gerçekten de insansın.";
+"LETS_CONTINUE" = "Devam edelim mi?";
+"OPEN_LOCATION_SERVICES" = "Konum servislerini aç";
+"YOU_NEED_TO_GIVE_LOCATION_PERMISSION" = "Etrafındaki etkinlikleri sana göstermemiz için lokasyon izni vermen gerekiyor. Gerekmiyor mu?";
+"OPEN_NOTIFICATION_SERVICES" = "Bildirimlerini aç";
+"YOU_NEED_TO_GIVE_NOTIFICATION_PERMISSION" = "Sana haber yollamamız için bildirim izni ver. Yoksa olan bitenden nasıl haberdar olacaksın?";
+"WHAT_IS_YOUR_NAME" = "İsmin nedir?";
+"OTHER_USERS_CAN_ONLY_SEE_YOUR_NAME" = "Diğer kullanıcılar sadece ismini görebilir.";
+"NAME_FIELD_CAN_NOT_BE_EMPTY" = "İsim kısmı boş olamaz.";
+"WHAT_IS_YOUR_GENDER" = "Cinsiyetin nedir?";
+"MALE" = "Erkek";
+"FEMALE" = "Kadın";
+"NON_BINARY" = "Non-binary";
+"WHEN_WERE_YOU_BORN" = "Ne zaman doğdun?";
+"OTHER_USERS_CAN_ONLY_SEE_YOUR_AGE" = "Diğer kullanıcılar sadece yaşını görebilir.";
+"BIRTHDATE_FORMAT_PLACEHOLDER" = "AA.gg.YYYY";
+"YOU_MUST_BE_OVER_18" = "Kayıt olmak için 18 yaşından büyük olman gerekiyor.";
+"WHERE_ARE_YOU_RIGHT_NOW" = "Şu an neredesin?";
+"OTHER_USERS_CAN_NOT_SEE_YOUR_LOCATION" = "Diğer kullanıcılar lokasyonunu göremez.";
+"SEARCH_LOCATION" = "Konum Ara";
+"AUTO_MARK" = "Otomatik İşaretle";
+"UPLOAD_PROFILE_PHOTO" = "Fotoğrafını yükle.";
+"PLEASE_UPLOAD_A_PHOTO_OF_YOUR_FACE" = "Lütfen yüzünün gözüktüğü bir fotoğrafını yükle. Fotoğrafını istediğin zaman değiştirebilirsin.";
+"CHOOSE_FROM_GALLERY" = "Galeriden Seç";
+"TAKE_A_PHOTO" = "Fotoğraf Çek";
+"VERY_GOOD" = "Çok iyi!";
+"NOW_WE_CAN_CREATE_YOUR_PROFILE" = "Şimdi profilini oluşturabiliriz.";
