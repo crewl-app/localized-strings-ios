@@ -6,5 +6,6 @@
 
 public struct LocalizedStrings {
     public init() {
+        
     }
 }
