@@ -1,9 +1,8 @@
-//
-//  SwiftUIView.swift
-//  
-//
-//  Created by Kaan on 21.02.2023.
-//
+/*
+  
+  Created by kaanf on 21.02.2023.
+  
+*/
 
 import SwiftUI
 

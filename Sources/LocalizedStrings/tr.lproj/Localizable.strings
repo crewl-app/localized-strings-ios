@@ -2,11 +2,10 @@
   Localizable.strings
   
 
-  Created by Kaan on 21.02.2023.
+  Created by kaanf on 21.02.2023.
   
 */
 
-"title" = "Başlık!";
 "EXPLORE_EVENTS_AROUND" = "Etrafındaki etkinlikleri keşfet";
 "MEET_NEW_PEOPLE_AND_COMPETE" = "Yeni insanlarla tanış ve rekabet et";
 "GET_SPECIAL_DISCOUNTS_AND_TRY_DIFFERENT_FLAVORS" = "Özel indirimler kazan ve farklı tatları dene";
